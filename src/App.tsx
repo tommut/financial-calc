@@ -1,7 +1,7 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-import Financial from './Financial';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
+import Financial from "./Financial";
 
 function App() {
   return (
